@@ -1,0 +1,14 @@
+"The accompanying financial statements have been prepared in accordance with the International Financial Reporting Standards (IFRS) 
+as issued by the International Accounting Standards Board (IASB). 
+Management is responsible for the preparation and fair presentation of these financial statements, 
+including the design, implementation, and maintenance of internal controls relevant to the preparation 
+and fair presentation of financial statements that are free from material misstatement, whether due to fraud or error.​
+
+Our responsibility is to express an opinion on these financial statements based on our audit. 
+We conducted our audit in accordance with auditing standards generally accepted in the United States of America. 
+Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial 
+statements are free from material misstatement.​
+
+In our opinion, the financial statements referred to above present fairly, in all material respects, 
+the financial position of the Company as of December 31, 2022, and the results of its operations and 
+its cash flows for the year then ended in accordance with IFRS."

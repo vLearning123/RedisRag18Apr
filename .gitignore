@@ -1,0 +1,13 @@
+# Ignore unnecessary stuff
+__pycache__/
+*.env
+*.log
+
+# Allow everything else
+!.gitignore
+!*.py
+!*.txt
+!requirements.txt
+!main.py
+!src/
+!data/
