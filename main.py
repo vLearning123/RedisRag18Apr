@@ -18,7 +18,7 @@ create_vector_index(index_name="doc_index", prefix="doc:", vector_dim=vector_dim
 
 print("TF-IDF vectorizer, document vectors and index have been saved to Redis.")
 
-query_text = "audit opinion financial statements"
+query_text = "financial statements have been prepared in accordance"
 
 results = search_similar_document(query_text)
 

@@ -3,7 +3,7 @@ from redis.commands.search.query import Query
 from src.config.redis_client import get_redis_client
 from src.vectorizer.vectorizer_store import load_vectorizer_from_redis_pickle
 
-def search_similar_document(query_text: str, top_k: int = 5):
+def search_similar_document(query_text: str, top_k: int = 3):
     """
     Search for the most similar documents to the query text using Redis.
     """
