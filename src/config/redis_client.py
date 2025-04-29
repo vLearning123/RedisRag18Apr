@@ -10,3 +10,9 @@ def get_redis_client():
         db=0,
         # decode_responses=True
     )
+
+def clear_redis_database(redis_client):
+    """
+    Delete all keys in the current Redis database.
+    """
+    redis_client.flushdb()

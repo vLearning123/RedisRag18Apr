@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Node A"
+    },
+    {
+        "id": 2,
+        "name": "Node B"
+    },
+    {
+        "id": 3,
+        "name": "Node C"
+    },
+    {
+        "id": 4,
+        "name": "Node D"
+    },
+    {
+        "id": 5,
+        "name": "Node E"
+    }
+]
